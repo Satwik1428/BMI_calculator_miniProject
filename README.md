@@ -1,8 +1,8 @@
-# Mini Project – BMI Calculator ⚖️
+# Mini Project – BMI Calculator 
 
 A simple **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaScript**.
 
-## 📌 Description
+##  Description
 This mini project calculates the **Body Mass Index (BMI)** based on the user’s height and weight inputs.  
 It then displays the BMI value along with the corresponding **health category** (Underweight, Normal, Overweight, or Obese).
 
@@ -10,7 +10,7 @@ The project focuses on **DOM manipulation, form handling, and basic JavaScript l
 
 ---
 
-## 🚀 Features
+##  Features
 - User input for height and weight
 - Real-time BMI calculation
 - Displays BMI result and health status
@@ -19,7 +19,7 @@ The project focuses on **DOM manipulation, form handling, and basic JavaScript l
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript (DOM Manipulation)
